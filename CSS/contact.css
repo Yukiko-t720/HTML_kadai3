@@ -1,0 +1,23 @@
+.contact th{
+  text-align: right;
+  width: 150px;
+}
+.contact tr{
+  height: 7rem;
+}
+.input{
+  width: 480px;
+}
+.contact{
+  border-spacing: 10px;
+}
+.send{
+  text-align: center;
+}
+.send input{
+  background: #006666;
+  color: #fff;
+}
+.send input:hover{
+  opacity: 0.5;
+}
